@@ -1,0 +1,67 @@
+.login {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, black 100%), url("https://thebutlercollegian.com/wp-content/uploads/2019/03/netflix-image.jpg");
+  background-size: cover;
+  position: relative;
+}
+.login .top .wrapper {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.login .top .wrapper .logo {
+  height: 40px;
+}
+.login .container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+.login .container form {
+  width: 300px;
+  height: 300px;
+  padding: 50px;
+  border-radius: 5px;
+  background-color: var(--main-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.login .container form input {
+  height: 50px;
+  border-radius: 5px;
+  background-color: grey;
+  color: white;
+  padding-left: 10px;
+}
+.login .container form input::placeholder {
+  color: lightgray;
+}
+.login .container form button {
+  height: 40px;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.login .container form span {
+  color: lightgray;
+}
+.login .container form span b {
+  color: white;
+}
+.login .container form .clickable {
+  cursor: pointer;
+}
