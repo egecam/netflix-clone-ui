@@ -6,12 +6,12 @@ I made this Netflix Clone to show my React skills concretely. I used Sass for st
 
 - #### Get Started Page
 
-![Get Started Page](readmeImg\3.png)
+![Get Started Page](/readmeImg/3.png)
 
 - #### Log In Page
 
-  ![Log In Page](readmeImg\2.png)
+  ![Log In Page](/readmeImg/2.png)
 
 - #### Homepage
 
-![Homepage](readmeImg\1.gif)
+![Homepage](/readmeImg/1.gif)
