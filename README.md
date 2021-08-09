@@ -10,7 +10,7 @@ I made this Netflix Clone to show my React skills concretely. I used Sass for st
 
 - #### Log In Page
 
-  ![Log In Page](/readmeImg/2.png)
+![Log In Page](/readmeImg/2.png)
 
 - #### Homepage
 
